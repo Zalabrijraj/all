@@ -1,0 +1,29 @@
+<html> 
+		<head>
+			<body>
+			<table border="5">
+	<tr>
+		<th>SR</th>
+		<th>NAME</th>
+		<th>MARKS</th>
+		<th>year</th>
+		<th>uni</th>
+	</tr>
+	<tr>
+		<th>1</th>
+		<th> ZALA BRIJRAJSINH </th>
+		<th> 50 </th>
+		<th> 2023 </th>
+		<th>sauratra uni</th>
+	</tr>
+	<tr>
+		<th>2</th>
+		<th> RAJ  </th>
+		<th> 70 </th>
+		<th> 2023 </th>
+		<th>sauratra uni</th>
+	</tr>
+			</body>	
+		</head>
+</html>	
+		
